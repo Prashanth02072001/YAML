@@ -1,0 +1,34 @@
+"name":"prashanth"
+1:"5e8"
+---
+# lists
+-mango
+-banana
+-grape
+---
+cities:
+-hyd
+-srd
+-mdk
+
+cities:
+ -hyd
+ -bng
+
+number: 123
+marks: 23.989
+boolena: No 
+
+#string declarations types(4 types)
+name: prashanth
+fruit: "apple"
+bio: i am a student
+
+#specific types
+zer: !!int 23.0
+positivenum: !!int 34
+negativeNum: !!int -23
+binary: !!int 0b11
+
+marks: !!float 34.09
+...
